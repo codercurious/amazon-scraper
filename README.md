@@ -1,3 +1,5 @@
+# Amazon Scraper - Products and bestseller ranks
+Interested in using this scraper? Get it here: [Amazon Scraper - Products and bestseller ranks](https://apify.com/curious_coder/amazon-scraper)
 ## Amazon Product Scraper Overview
 
 Extract product data seamlessly from Amazon using any product listing URLs.  Get critical information like ratings, bestseller ranks, pricing, variations, etc
